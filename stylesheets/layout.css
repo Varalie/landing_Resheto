@@ -1,0 +1,382 @@
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+overflow-x: hidden;
+}
+
+/* Реши всё */
+
+.title_1 h3 {
+position: absolute;
+top: 341px;
+right: 64.44%;
+bottom: 91.63%;
+left: 20.56%;
+
+color: #000000;
+
+font-family: "Inter-Black", sans-serif;
+font-size: 45px;
+line-height: 54px;
+}
+
+/* Найди ответы на все вопросы и упрости свою жизнь с помощью одного приложения. */
+
+.header p {
+position: absolute;
+top: 410px;
+right: 57.29%;
+bottom: 90.04%;
+left: 20.56%;
+
+color: #000000;
+
+font-family: "Inter-Medium", sans-serif;
+font-size: 18px;
+line-height: 22px;
+}
+
+/* Кнопка "Скачать" */
+
+button {
+position: absolute;
+top: 519px;
+left: 296px;
+
+width: 190px;
+height: 53px;
+
+color: #ffffff;
+border-radius: 30px;
+background-color: black;
+
+font-family: "Inter-SemiBold", sans-serif;
+font-size: 14px;
+}
+
+
+/* Поможем решить все ваши проблемы. */
+
+.title_2 h3 {
+position: absolute;
+top: 937px;
+right: 45.14%;
+bottom: 91.58%;
+left: 20.62%;
+
+color: #000000;
+
+font-family: "Inter-Black", sans-serif;
+font-size: 45px;
+line-height: 54px;
+}
+
+
+/* Решето — это простой сервис, который помогает принимать решения. Он наилучшим образом приспособлен для анализа и взвешивания различных аргументов и расстановки приоритетов. */
+
+.one p {
+position: absolute;
+top: 1136px;
+right: 51.04%;
+bottom: 85.98%;
+left: 20.62%;
+
+color: #000000;
+
+font-family: "Inter-Medium", sans-serif;
+font-size: 18px;
+line-height: 22px;
+}
+
+/* В этом пользователю поможет простой и понятный интерфейс, а также алгоритм действий схожий с составлением заметок. */
+
+.two p {
+position: absolute;
+top: 1136px;
+right: 18.12%;
+bottom: 85.98%;
+left: 54.86%;
+
+letter-spacing: 0.0120588em;
+
+color: #000000;
+
+font-family: "Inter-Medium", sans-serif;
+font-size: 18px;
+line-height: 22px;
+}
+
+
+/* Решение найдется всегда */
+
+.tagline p {
+position: absolute;
+top: 1507px;
+left: 114px;
+
+width: 1256px;
+height: 894px;
+
+letter-spacing: 0.0120588em;
+
+color: #000000;
+
+font-family: "Inter-Black", sans-serif;
+font-size: 250px;
+line-height: 303px;
+}
+
+
+/* Любую проблему можно решить в три шага */
+
+.title_3 h3 {
+position: absolute;
+top: 2664px;
+right: 37.22%;
+bottom: 43.33%;
+left: 20.56%;
+
+color: #000000;
+
+font-family: "Inter-Black", sans-serif;
+font-size: 45px;
+line-height: 54px;
+}
+
+
+/* Задайте чёткий вопрос. */
+
+.three p {
+position: absolute;
+top: 2918px;
+right: 44.51%;
+bottom: 39.95%;
+left: 33.54%;
+
+color: #000000;
+
+font-family: "Inter-Medium", sans-serif;
+font-size: 26px;
+line-height: 31px;
+}
+
+
+/* Введите варианты решения. */
+
+.four p {
+position: absolute;
+top: 3127px;
+right: 40.49%;
+bottom: 35.7%;
+left: 33.54%;
+
+color: #000000;
+
+font-family: "Inter-Medium", sans-serif;
+font-size: 26px;
+line-height: 31px;
+}
+
+
+/* Напишите аргументы для каждого из них. */
+
+.five p {
+position: absolute;
+top: 3320px;
+right: 46.11%;
+bottom: 31.17%;
+left: 33.68%;
+
+color: #000000;
+
+font-family: "Inter-Medium", sans-serif;
+font-size: 26px;
+line-height: 31px;
+}
+
+/* Скачать Решето? */
+
+.title_4 h3 {
+position: absolute;
+z-index: 1;
+top: 3633px;
+right: 49.65%;
+bottom: 24.92%;
+
+color: #000000;
+
+font-family: "Inter-Black", sans-serif;
+font-size: 45px;
+line-height: 54px;
+}
+
+/* image */
+.list img {
+position: absolute;
+top: 2857px;
+left: 296px;
+
+width: 157px;
+height: 571px;
+}
+
+.head img {
+position: absolute;
+
+width: 1440px;
+height: 958px;
+}
+
+.mockup_0 img {
+position: absolute;
+top: -28px;
+left: 511px;
+
+width: 820px;
+height: 913px;
+}
+
+.mockup_1 img {
+position: absolute;
+top: 1387px;
+left: 245px;
+
+width: 512px;
+height: 886px;
+}
+
+.mockup_2 img {
+position: absolute;
+top: 3563px;
+left: 150px;
+
+width: 1441px;
+height: 1018px;
+}
+
+.reason img {
+position: absolute;
+z-index: 1;
+top: 3759px;
+left: 298px;
+
+width: 375px;
+height: 265px;
+}
+
+.download img {
+position: absolute;
+z-index: 1;
+top: 4132px;
+left: 362px;
+
+width: 205px;
+height: 58px;
+}
+
+.bg img {
+position: absolute;
+top: 4595px;
+left: -2px;
+
+width: 1447px;
+height: 316px;
+}
+
+/* Скачать, контакты, соц. сети */
+
+.footer_title_download p {
+position: absolute;
+z-index: 1;
+top: 4674px;
+right: 70.69%;
+bottom: 4.24%;
+left: 22.15%;
+
+color: #000000;
+
+font-family: "Inter-Bold", sans-serif;
+font-size: 24px;
+line-height: 29px;
+}
+
+.footer_title_contacts p {
+position: absolute;
+z-index: 1;
+top: 4674px;
+right: 49.58%;
+bottom: 4.24%;
+left: 42.01%;
+
+color: #000000;
+
+font-family: "Inter-Bold", sans-serif;
+font-size: 24px;
+line-height: 29px;
+
+}
+
+.footer_title_sn p {
+position: absolute;
+z-index: 1;
+top: 4674px;
+right: 22.36%;
+bottom: 4.24%;
+left: 69.24%;
+
+color: #000000;
+
+font-family: "Inter-Bold", sans-serif;
+font-size: 24px;
+line-height: 29px;
+}
+
+/* Футер */
+
+.footer_download p {
+position: absolute;
+z-index: 1;
+top: 4724px;
+right: 72.99%;
+bottom: 2.55%;
+left: 22.15%;
+
+color: #000000;
+
+font-family: "Inter-Medium", sans-serif;
+font-size: 18px;
+line-height: 31px;
+}
+
+.footer_contacts p {
+position: absolute;
+z-index: 1;
+top: 4724px;
+right: 39.38%;
+bottom: 1.91%;
+left: 42.01%;
+
+color: #000000;
+
+font-family: "Inter-Medium", sans-serif;
+font-size: 18px;
+line-height: 31px;
+}
+
+.footer_sn p {
+position: absolute;
+z-index: 1;
+top: 4724px;
+right: 24.38%;
+bottom: 1.91%;
+left: 69.24%;
+
+color: #000000;
+
+font-family: "Inter-Medium", sans-serif;
+font-size: 18px;
+line-height: 31px;
+}
